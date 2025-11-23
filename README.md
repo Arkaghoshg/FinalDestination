@@ -19,6 +19,18 @@ A lightweight, fun, and logical mobile game built using React Native (Expo).
 Players must predict where the Ninja will land after performing a fixed number of jumps.
 The game tests quick thinking, modular arithmetic, and timing — with animations, sounds, leaderboard, and multiplayer turns.
 
+## 🧰 Tech Stack
+
+| Category | Technologies |
+|---------|--------------|
+| **Frontend** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" width="40" /> <img src="https://img.icons8.com/color/48/000000/expo.png" width="40"/> |
+| **Backend** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="48" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="48" /> |
+| **Database** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" /> |
+| **Languages** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" /> |
+| **Mobile / Runtime** | <img src="https://img.icons8.com/color/48/android-os.png" width="40"/> |
+| **Version Control** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" /> |
+| **Animations & UI** | Lottie, Confetti, Expo-AV Sounds, Custom Themes |
+
 
 
 🎮 Gameplay Overview
@@ -87,5 +99,6 @@ a → launch Android emulator
 **📜 License
 
 This project is licensed under the MIT License.
+
 
 
