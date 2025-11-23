@@ -106,7 +106,7 @@ a → launch Android emulator
         <sub><b>Arka Ghosh</b></sub>
       </a>
       <br />
-      🎨 Frontend Developer
+      🎮 Ideation and Frontend Design
     </td>
     <td align="center">
       <a href="https://github.com/<friend-username>">
@@ -124,6 +124,7 @@ a → launch Android emulator
 **📜 License
 
 This project is licensed under the MIT License.
+
 
 
 
