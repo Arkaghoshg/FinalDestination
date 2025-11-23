@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Expo / React Native
+.expo/
+.expo-shared/
+android/
+ios/
+.build/
+
+# Env
+.env
+.env.local
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# mac / windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
