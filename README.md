@@ -96,9 +96,35 @@ w → open Web
 a → launch Android emulator
 
 
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Arkaghoshg">
+        <img src="https://github.com/Arkaghoshg.png" width="100px;" alt="Arka Ghosh"/><br />
+        <sub><b>Arka Ghosh</b></sub>
+      </a>
+      <br />
+      🎨 Frontend Developer
+    </td>
+    <td align="center">
+      <a href="https://github.com/<friend-username>">
+        <img src="https://github.com/<Ari-web-des>.png" width="100px;" alt="Aritra Das"/><br />
+        <sub><b>Aritra Das</b></sub>
+      </a>
+      <br />
+      🛠 Backend & Testing
+    </td>
+  </tr>
+</table>
+
+
+
 **📜 License
 
 This project is licensed under the MIT License.
+
 
 
 
