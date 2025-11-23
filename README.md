@@ -1,4 +1,22 @@
-🏯 Final Destination – Logic-Based Ninja Prediction Game
+# 🏯 Final Destination – Logic-Based Ninja Prediction Game
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue?style=flat-square)
+![Project Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Made with Love](https://img.shields.io/badge/Made%20With-Love-red?style=flat-square)
+
+![Repo Size](https://img.shields.io/github/repo-size/Arkaghoshg/Final-Destination-Game)
+![Code Size](https://img.shields.io/github/languages/code-size/Arkaghoshg/Final-Destination-Game)
+![Last Commit](https://img.shields.io/github/last-commit/Arkaghoshg/Final-Destination-Game)
+
 
 A lightweight, fun, and logical mobile game built using React Native (Expo).
 Players must predict where the Ninja will land after performing a fixed number of jumps.
@@ -72,3 +90,4 @@ a → launch Android emulator
 **📜 License
 
 This project is licensed under the MIT License.
+
