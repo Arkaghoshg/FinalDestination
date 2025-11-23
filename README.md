@@ -13,9 +13,6 @@
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Made with Love](https://img.shields.io/badge/Made%20With-Love-red?style=flat-square)
 
-![Repo Size](https://img.shields.io/github/repo-size/Arkaghoshg/Final-Destination-Game)
-![Code Size](https://img.shields.io/github/languages/code-size/Arkaghoshg/Final-Destination-Game)
-![Last Commit](https://img.shields.io/github/last-commit/Arkaghoshg/Final-Destination-Game)
 
 
 A lightweight, fun, and logical mobile game built using React Native (Expo).
@@ -90,4 +87,5 @@ a → launch Android emulator
 **📜 License
 
 This project is licensed under the MIT License.
+
 
