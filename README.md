@@ -95,7 +95,26 @@ Or press:
 w → open Web
 a → launch Android emulator
 
+## 🏗 Project Architecture
 
+```mermaid
+flowchart LR
+    A[Player] --> B[React Native App]
+    B --> C[Game Engine Logic]
+    C --> D[Ninja Movement & Animation]
+    C --> E[Score System]
+    C --> F[Sound Effects]
+    B --> G[UI Components <br/> Blocks, Buttons, Timer]
+    
+    E --> H[Local Leaderboard Storage]
+    E --> I[POST Score API]
+    
+    I --> J[Node.js Backend]
+    J --> K[MongoDB Database]
+    
+    H --> L[Leaderboard Screen]
+    K --> L
+```
 ## 👥 Contributors
 
 <table>
@@ -124,6 +143,7 @@ a → launch Android emulator
 **📜 License
 
 This project is licensed under the MIT License.
+
 
 
 
